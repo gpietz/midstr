@@ -1,4 +1,4 @@
-[![Farpoint Logo](media/midstr_logo2-535x47.png)](https://www.github.com/gpietz/farpoint)
+[![Farpoint Logo](media/midstr_logo2-535x47.png)](https://www.github.com/gpietz/midstr)
 
 The **midstr** CLI tool is a simple Rust application that allows you to center a given text within a specified 
 total length by adding padding characters on both sides. This can be useful for formatting text in various 
